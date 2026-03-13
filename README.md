@@ -1,4 +1,4 @@
-This is program of moveswitching by sensor value and detect the road surface condition by calculation.
+This is program of change move style by sensor value and detect the road surface condition by calculation.
 I omit the Motor's program to simplize.
 When taking sensor value, I use QuickStats(free libraly in Github:https://github.com/dndubins/QuickStats)
 
